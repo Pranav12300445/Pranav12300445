@@ -18,7 +18,7 @@
 - 🔭 Currently building **CodeMentor** — a multi-language AI codebase RAG system (tree-sitter AST parsing across 18 languages, semantic chunking, ingestion pipeline)
 - 🧠 Exploring AI/ML, developer tooling, and full-stack systems that solve real problems — not just portfolio filler
 - 🏥 Recently helped build backend microservices for a **Hospital Management System** (Spring Boot, Spring Cloud, Eureka, JWT auth)
-- 🌱 Also tinkering with Unity game dev, a custom interpreted language ("Lumi"), and competitive programming
+- 🌱 Also tinkering with Unity game dev
 - 💬 Ask me about Java, Spring Boot, React, Node.js, or system design
 
 ---
